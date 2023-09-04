@@ -7,4 +7,4 @@ Projetos na AWS
 
 ### Hi there 👋
 
-![alt text](https://raw.githubusercontent.com/leoym/leoym/main/lymtec-lab.png](https://lym-tec.com.br/wp-content/uploads/2022/07/logo-maker-1024x421.jpg "Logo LYM")
+![alt text](https://lym-tec.com.br/wp-content/uploads/2022/07/logo-maker-1024x421.jpg "Logo LYM")
